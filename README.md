@@ -1,7 +1,7 @@
 Bot[¶](#bot "Permanent link")
 =============================
 
-This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot \*Hiyori\*
+This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot \*Arisu\*
 
 Terms of Service[¶](#terms-of-service "Permanent link")
 -------------------------------------------------------
@@ -58,7 +58,7 @@ The bot may store the following information automatically when being invited to 
 
 #### User Data
 
-The bot may store the following information automatically when a member uses the `/begin` command:
+The bot may store the following information automatically when a member uses the any command:
 
 *   `id` with the User's ID as value.
 
